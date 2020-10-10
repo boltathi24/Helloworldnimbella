@@ -4,5 +4,5 @@ bucket:
 packages:
   - name: default
     actions:
-      - name: web-sms
+      - name: hello
         runtime: python:3
